@@ -1,5 +1,5 @@
 (function (jsonConfig){
-  for (var i=0;i<jsonConfig.children.length;i++) AddChildRow();
+  for (var i=1;i<jsonConfig.children.length;i++) AddChildRow();
   document.getElementById('cmdAdd').disabled=false;
   document.getElementById('txtMisparZehutHore').value=jsonConfig.parentId;
   document.getElementById('txtShemPratiHore').value=jsonConfig.parentName;
