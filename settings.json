@@ -1,4 +1,4 @@
 {
-	'targetUrl': 'https://apps.education.gov.il/NmmNetAnt/Antigen',
-	'actionScriptVersion': '1'
+	"targetUrl": "https://apps.education.gov.il/NmmNetAnt/Antigen",
+	"actionScriptVersion": "1"
 }
