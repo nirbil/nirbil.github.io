@@ -1,3 +1,4 @@
 {
-  targetUrl = "https://www.google.com"
+  targetUrl: 'https://www.google.com',
+  actionScriptVersion: '1'
 }
