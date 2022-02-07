@@ -9,4 +9,4 @@
     children[i].getElementsByClassName('shem-prati-yeled')[0].value=jsonConfig.children[i].childName;
     children[i].getElementsByClassName('form-check-input')[0].checked=true;
   }
-});
+})
