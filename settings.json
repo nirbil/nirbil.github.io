@@ -1,9 +1,9 @@
 {
-	"TargetUrl": "https://apps.education.gov.il/NmmNetAnt/Antigen2",
+	"TargetUrl": "https://apps.education.gov.il/NmmNetAnt/Antigen",
 	"ActionScriptVersion": "1",
-	"AnnouncementId": "5",
+	"AnnouncementId": "6",
 	"AnnouncementTitle": "Hi!",
-	"AnnouncementContent": "This is the fourth announcement.",
+	"AnnouncementContent": "Target Updated",
 	"AnnouncementActionText": "Go",
 	"AnnouncementAction": "https://www.google.com"
 }
