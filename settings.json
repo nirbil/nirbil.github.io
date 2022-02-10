@@ -1,5 +1,5 @@
 {
-	"MinVer": "1.0"
+	"MinVer": "1.0",
 	"TargetUrl": "https://apps.education.gov.il/NmmNetAnt/Antigen",
 	"ActionScriptVersion": "1",
 	"Announcement": {
