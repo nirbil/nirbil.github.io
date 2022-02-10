@@ -8,7 +8,7 @@
 	"AnnouncementActionUrlAndroid": "https://www.google.com",
 	"AnnouncementActionUrlIOS": "https://www.google.com",
 	"AnnouncementActionUrlUWP": "https://www.google.com",
-	AnnouncementActionOverride: true,
+	"AnnouncementActionOverride": true,
 	"AnnouncementPersistent": true,
 	"AnnouncementExpiryDate": "2022-02-11T16:18:45.354281Z"
 }
