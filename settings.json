@@ -6,6 +6,5 @@
 	"AnnouncementContent": "Target Updated",
 	"AnnouncementActionText": "Go",
 	"AnnouncementActionUrl": "https://www.google.com",
-	"AnnouncementPersistent": true,
-	"AnnouncementExpiryDate": "2022-02-10T16:18:45.354281Z"
+	"AnnouncementPersistent": true	
 }
