@@ -1,9 +1,11 @@
 {
 	"TargetUrl": "https://apps.education.gov.il/NmmNetAnt/Antigen",
 	"ActionScriptVersion": "1",
-	"AnnouncementId": "6",
+	"AnnouncementId": "7",
 	"AnnouncementTitle": "Hi!",
 	"AnnouncementContent": "Target Updated",
 	"AnnouncementActionText": "Go",
-	"AnnouncementAction": "https://www.google.com"
+	"AnnouncementActionUrl": "https://www.google.com",
+	"AnnouncementPersistent": true,
+	"AnnouncementExpiryDate": "2022-02-10T16:08:45.354281Z"
 }
