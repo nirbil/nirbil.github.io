@@ -2,6 +2,9 @@
 	"MinVer": "1.0",
 	"TargetUrl": "https://apps.education.gov.il/NmmNetAnt/Antigen",
 	"ActionScriptVersion": "1",
+	"UpgradeUrlAndroid": "https://www.google.com",
+	"UpgradeUrlIOS": "https://www.google.com",
+	"UpgradeUrlUWP": "https://www.google.com",
 	"_Announcement": {
 		"Id": "23",
 		"Title": "End of Life",
