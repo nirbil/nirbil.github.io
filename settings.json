@@ -4,14 +4,14 @@
 	"ActionScriptVersion": "1",
 	"Announcement": {
 		"Id": "12",
-		"Title": "End of life",
-		"Content": "Please install our browser instead",
-		"ActionText": "Go",
+		"Title": "Welcome!",
+		"Content": "I'm your web programmer app and I can do wonders!",
+		"ActionText": "Let's go",
 		"ActionUrlAndroid": "https://www.google.com",
 		"ActionUrlIOS": "https://www.google.com",
 		"ActionUrlUWP": "https://www.google.com",
 		"ActionOverride": true,
-		"Persistent": true,
-		"ExpiryDate": "2022-02-11T16:18:45.354281Z"
+		"Persistent": false,
+		"ExpiryDate": "2022-02-12T16:18:45.354281Z"
 	}
 }
