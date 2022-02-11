@@ -11,7 +11,7 @@
 		"ActionUrlIOS": "https://www.google.com",
 		"ActionUrlUWP": "https://www.google.com",
 		"ActionOverride": true,
-		"Persistent": true,
+		"Persistent": false,
 		"ExpiryDate": "2022-02-11T16:18:45.354281Z"
 	}
 }
