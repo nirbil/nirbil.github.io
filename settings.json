@@ -5,7 +5,7 @@
 	"Announcement": {
 		"Id": "13",
 		"Title": "Welcome!",
-		"Content": "I'm your web programmer app and I can do wonders!",
+		"Content": "I'm your web programming app and I can do wonders!",
 		"ActionText": "Let's go",
 		"ActionUrlAndroid": "https://www.google.com",
 		"ActionUrlIOS": "https://www.google.com",
