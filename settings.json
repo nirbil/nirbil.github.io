@@ -7,11 +7,11 @@
 		"Title": "Welcome!",
 		"Content": "I'm your web programming app and I can do wonders!",
 		"ActionText": "Let's go",
-		"ActionUrlAndroid": "https://www.google.com",
-		"ActionUrlIOS": "https://www.google.com",
-		"ActionUrlUWP": "https://www.google.com",
+		"_ActionUrlAndroid": "https://www.google.com",
+		"_ActionUrlIOS": "https://www.google.com",
+		"_ActionUrlUWP": "https://www.google.com",
 		"ActionOverride": true,
 		"Persistent": false,
-		"ExpiryDate": "2022-02-12T16:18:45.354281Z"
+		"_ExpiryDate": "2022-02-12T16:18:45.354281Z"
 	}
 }
