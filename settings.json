@@ -3,7 +3,7 @@
 	"TargetUrl": "https://apps.education.gov.il/NmmNetAnt/Antigen",
 	"ActionScriptVersion": "1",
 	"Announcement": {
-		"Id": "20",
+		"Id": "21",
 		"Title": "End of Life",
 		"Content": "Please install our browser instead",
 		"ActionText": "Go!",
