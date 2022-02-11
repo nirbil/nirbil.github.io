@@ -3,7 +3,7 @@
 	"TargetUrl": "https://apps.education.gov.il/NmmNetAnt/Antigen",
 	"ActionScriptVersion": "1",
 	"Announcement": {
-		"Id": "22",
+		"Id": "23",
 		"Title": "End of Life",
 		"Content": "Please install our browser instead",
 		"ActionText": "Go!",
@@ -11,7 +11,7 @@
 		"ActionUrlIOS": "https://www.google.com",
 		"ActionUrlUWP": "https://www.google.com",
 		"ActionOverride": true,
-		"Persistent": true,
+		"Persistent": false,
 		"_ExpiryDate": "2022-02-12T16:18:45.354281Z"
 	},
 	"_Announcement": {
