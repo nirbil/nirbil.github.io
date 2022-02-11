@@ -3,14 +3,14 @@
 	"TargetUrl": "https://apps.education.gov.il/NmmNetAnt/Antigen",
 	"ActionScriptVersion": "1",
 	"Announcement": {
-		"Id": "16",
+		"Id": "17",
 		"Title": "Welcome!",
 		"Content": "I'm your web programming app and I can do wonders!",
 		"ActionText": "Let's go",
 		"_ActionUrlAndroid": "https://www.google.com",
 		"_ActionUrlIOS": "https://www.google.com",
 		"_ActionUrlUWP": "https://www.google.com",
-		"ActionOverride": true,
+		"_ActionOverride": true,
 		"Persistent": false,
 		"_ExpiryDate": "2022-02-12T16:18:45.354281Z"
 	}
