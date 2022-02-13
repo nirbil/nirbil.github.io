@@ -5,7 +5,7 @@
 	"UpgradeUrlAndroid": "https://www.google.com",
 	"UpgradeUrlIOS": "https://www.google.com",
 	"UpgradeUrlUWP": "https://www.google.com",
-	"Announcement": {
+	"_Announcement": {
 		"Id": "23",
 		"Title": "End of Life",
 		"Content": "Please install our browser instead",
@@ -17,7 +17,7 @@
 		"Persistent": true,
 		"_ExpiryDate": "2022-02-12T16:18:45.354281Z"
 	},
-	"_Announcement": {
+	"Announcement": {
 		"Id": "25",
 		"Title": "Welcome!",
 		"Content": "I'm your web programming app and I can do wonders!",
