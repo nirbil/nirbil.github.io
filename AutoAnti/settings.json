@@ -1,6 +1,7 @@
 {
 	"MinVer": "1.0.3",
 	"TargetUrl": "https://apps.education.gov.il/NmmNetAnt/Antigen",
+	"SuccessUrl": "https://apps.education.gov.il/NmmNetAnt/Antigen/Update",
 	"ActionScriptVersion": "1",
 	"UpgradeUrlAndroid": "https://www.google.com",
 	"UpgradeUrlIOS": "https://www.google.com",
