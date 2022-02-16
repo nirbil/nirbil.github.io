@@ -6,8 +6,8 @@
 	"UpgradeUrlAndroid": "https://www.google.com",
 	"UpgradeUrlIOS": "https://www.google.com",
 	"UpgradeUrlUWP": "https://www.google.com",
-	"_Announcement": {
-		"Id": "23",
+	"Announcement": {
+		"Id": "1",
 		"Title": "End of Life",
 		"Content": "Please install our browser instead",
 		"ActionText": "Go!",
