@@ -1,5 +1,5 @@
 {
-	"MinVer": "1.0.5",
+	"MinVer": "1.0.3",
 	"TargetUrl": "https://apps.education.gov.il/NmmNetAnt/Antigen",
 	"SuccessUrl": "https://apps.education.gov.il/NmmNetAnt/Antigen/Update",
 	"ActionScriptVersion": "1",
