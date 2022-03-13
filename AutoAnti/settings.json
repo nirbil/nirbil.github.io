@@ -6,6 +6,18 @@
 	"UpgradeUrlAndroid": "https://www.google.com",
 	"UpgradeUrlIOS": "https://www.google.com",
 	"UpgradeUrlUWP": "https://www.google.com",
+	"Announcement": {
+		"Id": "1",
+		"Title": "השהיית פעילות",
+		"Content": "נתראה בווריאנט הבא!",
+		"_ActionText": "Go!",
+		"_ActionUrlAndroid": "https://www.google.com",
+		"_ActionUrlIOS": "https://www.google.com",
+		"_ActionUrlUWP": "https://www.google.com",
+		"_ActionOverride": true,
+		"Persistent": true,
+		"_ExpiryDate": "2022-02-12T16:18:45.354281Z"
+	},
 	"_Announcement": {
 		"Id": "1",
 		"Title": "End of Life",
